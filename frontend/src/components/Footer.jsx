@@ -15,7 +15,7 @@ function Footer() {
 
     try {
       const response = await fetch(
-        "https://studentbackendfile.onrender.com/api/emails",
+        "https://student-backend-jumw.onrender.com/api/emails",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
