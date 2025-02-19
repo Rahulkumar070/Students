@@ -57,7 +57,7 @@ function Footer() {
               onClick={handleSubmit}
               className="absolute inset-y-0 right-2 flex items-center px-2 text-gray-500"
             >
-              <ArrowRight className="w-10 h-10 p-2 mr-2 mt-8" />
+              <ArrowRight className="w-10 h-10 p-2 mr-2 mt-8 cursor-pointer" />
             </button>
           </div>
           {message && (
