@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: silk;
+  src: url(/Fontspring-DEMO-rocgrotesk-regular.woff2) format(woff2);
+}
+
+@font-face {
+  font-family: gilroy;
+  src: url(/Gilroy-Light.woff2) format(woff2);
+}
