@@ -55,7 +55,7 @@ function Coretwo() {
           <div className="mt-10 font-extrabold sm:flex sm:items-center sm:flex-col ">
             <h1 className="text-[clamp(1rem,2vw,5rem)]">{item.heading}</h1>
             <p className="mt-5">{item.para}</p>
-            <button className="mt-2 border rounded p-1 px-7 gap-2 flex items-center">
+            <button className="mt-2 bg-blue-500 rounded p-1 px-7 gap-2 flex items-center">
               <a target="_blank" href={item.button}>
                 EXPLORE
               </a>
